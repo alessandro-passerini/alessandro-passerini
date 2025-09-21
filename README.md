@@ -8,9 +8,10 @@ Skills:
 - Web Applications, Mobile Apps, Agile Methodologies
 - Cryptography
 - Linux (Debian, Ubuntu, CentOS), Embedded Linux, Android
-- C++, Python, Ruby, Java, PHP, HTML, (S)CSS, JavaScript, Typescript, Rust
+- C++, Python, Ruby, Java, PHP, HTML, (S)CSS, JavaScript, Typescript, Rust, Go
 - Ruby on Rails, Angular, Node.js, CodeIgniter, jQuery, Zend Framework
 - SQL, PostgreSQL, Microsoft SQL Server, MySQL
+- Docker, Kubernetes
  
 <!---
 alessandro-passerini/alessandro-passerini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
